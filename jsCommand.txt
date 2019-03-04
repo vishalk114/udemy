@@ -1,0 +1,17 @@
+arr_name.includes(Var_name)-> return 0 or 1         Please find attached to this e-mail a copy of my CV that details my past experience.
+
+
+
+
+
+
+websites
+1- devdocs.io -> documentation
+2- codepen.io -> scripting
+3- https://docs.emmet.io/cheat-sheet/
+4- DEVELOPER.MOZILLA.ORG
+5-photobucket.com -> to create link for a image
+
+
+IMPORTANT LESSION	
+section 2, lecture 13
